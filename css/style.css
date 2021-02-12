@@ -14,7 +14,7 @@
   z-index: 95;
 }
 .fbody {
-	color: white;
+	color: rgba(46, 52, 64, 1);
 	background-image: url('../img/background.jpg');
 	background-position: 0px -100px;
 	height: 100vh;
@@ -37,7 +37,7 @@ a {
 .glink {
 	display: block;
 	text-decoration: none;
-	color: black;
+	color: rgba(76, 86, 106, 1);
 	font: 18px 'Montserrat';
 	border: 1px solid #ddd;
 	margin-top: -1px;
@@ -47,7 +47,7 @@ a {
 }
 
 .glink:hover {
-	background-color: #eee;
+	background-color: #3b4252;
 	text-shadow: 0 0 5px rgba(0,0,0,0.4);
 }
 
@@ -65,7 +65,7 @@ a {
 	outline: none;
 	width: 342px;
 	top: 12px;
-	font: 16px 'Montserrat';
+	font: 16px 'Roboto-mono';
 	border: 1px solid rgba(0,0,0,0.3);
 	padding: 12px 12px 12px 44px;
 	background-image: url('../search.svg');
