@@ -1,5 +1,7 @@
 # Website
-A website that hosts some flash games.
+DISCLAIMER: FLASH GAMES ARE NO LONGER SUPPORTED ON CHROME AND MANY OTHER BROWSERS SO ONLY GAMES UNDER THE HTML5 CATEGORY WILL WORK
+(If you can get flash working then the flash games will work though)
+
 It is important to note that all of these games are the property of their respective creators.
 If you want a game removed please contact me.
 
